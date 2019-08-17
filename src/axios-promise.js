@@ -27,3 +27,11 @@ server.getCodes(test_url).then(res=>{
     console.log(res)
 })
 
+
+//other 
+// (
+//     async()=>{
+//         const res = await axios.get(url);
+//         console.log(res.data)
+//     }
+// )()
